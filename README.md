@@ -12,7 +12,7 @@ PowerPlanOptions.reg: This registry file is required to unlock some hidden optio
 PowerPlan-Installer.bat: This is the main executable file. It provides a convenient menu that allows you to choose which set of power plans you want to install—either the modified or the stock ones. The script automatically imports both the power plans and the registry file.
 
 How to use
-Download the entire repository as a ZIP archive and extract it to a location of your choice.
+Download the entire repository as a [ZIP archive](https://github.com/FerNikoMF/Legion-Power-Plans/releases) and extract it to a location of your choice.
 
 Run the PowerPlan-Installer.bat file as an administrator.
 
